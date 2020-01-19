@@ -22,7 +22,7 @@ To use this tool:
 - Please don't modify the internal directory structure it may impact this tool functionality.
 - once the obove done please run the ./dat.sh script and follow the instructions.
 
-Cautions:
+Remarks:
 - Please use this tool carefully. The patching section will reboot the server if kernel is updated.
 - last but not the least, this tool may need some improvement and will be done as we move ahead based on the requirment/feedback.
 - Please use it in single test server first and once you are confirtable and confident use as per your requirement :)
